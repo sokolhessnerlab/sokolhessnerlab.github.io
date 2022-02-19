@@ -25,9 +25,9 @@ The lab uses two main ways to communicate, plus a few others.
 
 ### 1. Slack
 
-There are two [Slack](https://www.slack.com) workspaces[^slack] to join. 
+There are two [Slack](https://www.slack.com) workspaces[^slack] to join. Peter will add you to both of them.
 
-1. The **SHLab slack** is for most daily communication. The slack workspace has channels for general communication, interesting "good reads" that lab members find, social interactions, research projects (each project has its own channel), direct messages between specific lab members, and more. **To be added to the slack workspace**, email Peter with the email address you'd like to use (typically, your **name@du.edu** address).
+1. The **SHLab Slack** is for most daily communication. The workspace has channels organized around general communication, interesting "good reads" that lab members find, social interactions, research projects (each project has its own channel), direct messages between specific lab members, and more.
 2. The **DU PSYC Coders Slack** is for people in or affiliated with the DU Psychology department who use programming to conduct their research. The workspace has channels for e.g., `R`, `python`, `MATLAB`, and more. 
 
 #### Slack Settings
@@ -47,9 +47,9 @@ These lists are used for forwarding email announcements, and occasionally for la
 
 ### 3. Other communication
 
-Lab members are also generally on **[Twitter](https://www.twitter.com)**. Lab members are encouraged to join twitter and follow other lab members, and, when applicable, share interesting or relevant tweets they find on science, research, or whatever. Peter's Twitter is [@p1sh](https://www.twitter.com/p1sh), and the lab's is [@ItsTheSHLab](https://twitter.com/ItsTheShlab).
-
 We have **weekly lab meetings** during the academic quarter[^quarters]. All active lab members are expected to come to lab meetings and occasionally present/lead lab meeting. Lab meetings are typically scheduled immediately prior to each quarter (taking into account members' schedules). The goal is that lab meetings are helpful! Think about things you'd like feedback on, deadlines that'd be useful to you (to help you accomplish something on time, whether that be in your research, classes, or something else), and can be formal or informal presentations, guided discussions, or 'journal clubs' in which we present and discuss recent exciting research on emotion and decision-making. 
+
+Lab members are also generally on **[Twitter](https://www.twitter.com)**. You are encouraged to join twitter and follow other lab members to facilitate the sharing of interesting or relevant info about science, research, job opportunities, resources, or anything else. Peter's Twitter is [@p1sh](https://www.twitter.com/p1sh), and the lab's is [@ItsTheSHLab](https://twitter.com/ItsTheShlab). Joining Twitter isn't required, just recommended. 
 
 ## Files and Documents
 
@@ -89,15 +89,16 @@ The lab website contains brief [profiles of all lab members](https://www.sokolhe
 - (optional) Any **links** you want included (_your email address, website, or profiles on GitHub, Twitter, LinkedIn, etc._). 
 - (optional) A PDF copy of your **curriculum vitae (CV)**.
 
-It's your responsibility to keep this profile up to date. If anything changes, ask Peter to update the relevant portion of your profile. 
+Peter will then put your profile on the website. If anything changes about your profile info, ask Peter to update the relevant portion of your profile - it's your responsibility to keep it up to date!
 
 ## Lab Tools
 
 We use programming tools for a lot of our work. Install at least the following, in addition to Slack and GitHub Desktop:
 - **MATLAB**. DU has a site license. See [here](https://www.du.edu/it/services/software/software-catalog/98fd1bf31b3c74101f05433fbd4bcb8e) to download and install.
+- **PsychToolBox**. PTB is a free add-on to MATLAB, used to control the screen and interact with  input/output devices (e.g., keyboard, mouse, eye tracker). See [here](http://psychtoolbox.org/) to download & install once MATLAB is all set up. 
 - **R**. R is free. We suggest using RStudio (Desktop edition). See [here](https://www.rstudio.com/products/rstudio/) to download and install.
 
-You may want to consider other tools too, including Python (_free_), the Adobe Creative Suite (_DU site license_; e.g., Illustrator, Photoshop), Office 365 (_DU site license_; see [here](https://www.du.edu/it/services/software/software-catalog/c92f351698f2f500dd56f94121b032e7)), and more. 
+You may want to consider other tools too, including Python (_free_), the Adobe Creative Suite (_DU site license_; e.g., Illustrator, Photoshop; see [here](https://www.du.edu/it/services/software/software-catalog/9ef158601bd930101f05433fbd4bcb74)), Office 365 (_DU site license_; see [here](https://www.du.edu/it/services/software/software-catalog/c92f351698f2f500dd56f94121b032e7)), Zotero (_free & paid versions_; used for PDF management, annotation, and citation management in Word and/or Google Docs; see [here](https://www.zotero.org/)) and more. 
 
 ## Lab Space
 
@@ -108,6 +109,8 @@ The lab is located in Room 155 of Frontier Hall (2155 S. Race St.), on the Unive
 ## The SHLab's Research
 
 To familiarize yourself with the kind of research we do and how we do it, you can read published, in press, and pre-print papers from the lab on [the website](https://www.sokolhessnerlab.com/publications). Follow your interests and ask the lab members you're working with (Peter, a graduate student, etc) which they recommend for you.
+
+Many of our datasets are also available on the Open Science Framework (OSF; [Peter's OSF profile](osf.io/vwy2z)).  
 
 ## Mentorship
 
