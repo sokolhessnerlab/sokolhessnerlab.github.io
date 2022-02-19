@@ -25,9 +25,9 @@ The lab uses two main ways to communicate, plus a few others.
 
 ### 1. Slack
 
-There are two [Slack](www.slack.com) workspaces[^1] to join. 
+There are two [Slack](https://www.slack.com) workspaces[^1] to join. 
 
-1. The **SHLab slack** is for most daily communication. The slack workspace has channels for general communication, interesting "good reads" that lab members find, social interactions, research projects (each project has its own channel), direct messages between specific lab members, and more. **To be added to the slack workspace**, email Peter with the email address you'd like to use (typically, your name@du.edu address).
+1. The **SHLab slack** is for most daily communication. The slack workspace has channels for general communication, interesting "good reads" that lab members find, social interactions, research projects (each project has its own channel), direct messages between specific lab members, and more. **To be added to the slack workspace**, email Peter with the email address you'd like to use (typically, your **name@du.edu** address).
 2. The **DU PSYC Coders Slack** is for people in or affiliated with the DU Psychology department who use programming to conduct their research. The workspace has channels for e.g., `R`, `python`, `MATLAB`, and more. 
 
 #### Slack Settings
@@ -47,7 +47,7 @@ These lists are used for forwarding email announcements, and occasionally for la
 
 ### 3. Other communication
 
-Lab members are also generally on **[Twitter](www.twitter.com)**. Lab members are encouraged to join twitter and follow other lab members, and, when applicable, share interesting or relevant tweets they find on science, research, or whatever. Peter's Twitter is [@p1sh](www.twitter.com/p1sh), and the lab's is [@ItsTheSHLab](https://twitter.com/ItsTheShlab).
+Lab members are also generally on **[Twitter](https://www.twitter.com)**. Lab members are encouraged to join twitter and follow other lab members, and, when applicable, share interesting or relevant tweets they find on science, research, or whatever. Peter's Twitter is [@p1sh](https://www.twitter.com/p1sh), and the lab's is [@ItsTheSHLab](https://twitter.com/ItsTheShlab).
 
 We have **weekly lab meetings** during the academic quarter[^2]. All active lab members are expected to come to lab meetings and occasionally present/lead lab meeting. Lab meetings are typically scheduled immediately prior to each quarter (taking into account members' schedules). The goal is that lab meetings are helpful! Think about things you'd like feedback on, deadlines that'd be useful to you (to help you accomplish something on time, whether that be in your research, classes, or something else), and can be formal or informal presentations, guided discussions, or 'journal clubs' in which we present and discuss recent exciting research on emotion and decision-making. 
 
@@ -55,9 +55,9 @@ We have **weekly lab meetings** during the academic quarter[^2]. All active lab 
 
 ### 1. Code
 
-The lab uses [GitHub](www.github.com) for all project- and lab-related scripts, functions, etc. We use GitHub to facilitate collaboration, documentation, backup, and storage. We believe this is a tool that every psychological scientist should learn to use, and **require all lab members who are working on or producing code to use GitHub**. 
+The lab uses [GitHub](https://www.github.com) for all project- and lab-related scripts, functions, etc. We use GitHub to facilitate collaboration, documentation, backup, and storage. We believe this is a tool that every psychological scientist should learn to use, and **require all lab members who are working on or producing code to use GitHub**. 
 
-If you don't know how to use GitHub, we recommend beginning at [Start Your Lab](www.startyourlab.com) (started by lab alumnus [Ari Dyckovsky!](www.aridyckovsky.com)), specifically the [Docs](https://www.startyourlab.com/docs) page. Read and complete the steps listed in the Setup and Tutorial pages. You may find the information on the [Text Editors](https://www.startyourlab.com/docs/text-editors) and [Glossary](https://www.startyourlab.com/docs/glossary) pages helpful.
+If you don't know how to use GitHub, we recommend beginning at [Start Your Lab](https://www.startyourlab.com) (started by lab alumnus [Ari Dyckovsky!](https://www.aridyckovsky.com)), specifically the [Docs](https://www.startyourlab.com/docs) page. Read and complete the steps listed in the Setup and Tutorial pages. You may find the information on the [Text Editors](https://www.startyourlab.com/docs/text-editors) and [Glossary](https://www.startyourlab.com/docs/glossary) pages helpful.
 
 Along the way, you'll need to...
 - Create a [GitHub account](https://www.startyourlab.com/docs/github-accounts)
@@ -82,7 +82,7 @@ The lab uses Google Calendars for all lab-wide events (e.g., lab meetings, impor
 
 ### 4. Website
 
-The lab website contains brief [profiles of all lab members](www.sokolhessnerlab.com/people). Please send the following to Peter:
+The lab website contains brief [profiles of all lab members](https://www.sokolhessnerlab.com/people). Please send the following to Peter:
 
 - Your **name** and **pronouns** exactly as you would like them to appear on the site.
 - A grayscale, professional **profile picture** of yourself. Higher resolution is better. 
