@@ -1,5 +1,5 @@
 title: Sokol-Hessner Lab Setup Page
-description: Use this page to get set up with the Sokol-Hessner Lab (https://www.sokolhessnerlab.com).
+description: Use this page to get set up with the [Sokol-Hessner Lab](https://www.sokolhessnerlab.com).
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-relative-links
