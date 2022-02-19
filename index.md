@@ -1,6 +1,6 @@
 # Welcome!
 
-The goal of this document is to **help new Sokol-Hessner Lab (SHLab) members get set up** quickly and easily. Note that this website is hosted via GitHub, making it easy for existing lab members to edit and improve upon this document! If you're new, don't worry about that yet - just follow the instructions below to get started. 
+The goal of this page is to **help new members of the [Sokol-Hessner Lab](https://www.sokolhessnerlab.com) (SHLab) get set up** quickly and easily. 
 
 ## The short version
 
@@ -115,7 +115,7 @@ All lab members should also do the following:
 - Set up **weekly meetings** for general check-ins and/or for project-specific updates, discussion, and planning. 
 
 ## That's it!
-We hope this was helpful. If you'd like to make changes, please make suggestions and/or contribute to this repository!
+We hope this was helpful. Note that this website is hosted via GitHub, making it easy for existing lab members to edit and improve upon this document! Please offer suggestions and edits to improve this page via GitHub! If you're new, don't worry about that yet - just follow the instructions above to get started in the lab. 
 
 
 ## Footnotes
