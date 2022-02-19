@@ -6,4 +6,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-logo: ./imgs/lab_logo.png
+logo: ./files/lab_logo.png

@@ -27,7 +27,7 @@ The lab uses two main ways to communicate, plus a few others.
 
 There are two [Slack](www.slack.com) workspaces[^1] to join. 
 
-1. The **SHLab slack** is for most daily communication. The slack workspace has channels for general communication, interesting "good reads" that lab members find, social interactions, research projects (each project has its own channel), direct messages between specific lab members, and more. **To be added to the slack workspace**, email peter.sokol-hessner@du.edu with the email address you'd like to use (typically, your name@du.edu address).
+1. The **SHLab slack** is for most daily communication. The slack workspace has channels for general communication, interesting "good reads" that lab members find, social interactions, research projects (each project has its own channel), direct messages between specific lab members, and more. **To be added to the slack workspace**, email Peter with the email address you'd like to use (typically, your name@du.edu address).
 2. The **DU PSYC Coders Slack** is for people in or affiliated with the DU Psychology department who use programming to conduct their research. The workspace has channels for e.g., `R`, `python`, `MATLAB`, and more. 
 
 #### Slack Settings
@@ -41,7 +41,7 @@ Slack works best when everyone's on it, and people are relatively responsive. To
 
 ### 2. Email
 
-We have two lab email lists: shlab-general@du.edu and shlab-core@du.edu. To be added to these lists, please send your name@du.edu email to peter.sokol-hessner@du.edu. 
+We have two lab email lists: shlab-general@du.edu and shlab-core@du.edu. To be added to these lists, please send your name@du.edu email to Peter. 
 
 These lists are used for forwarding email announcements, and occasionally for lab events. _shlab-general_ is meant for anyone & everyone within the department of psychology who is interested in things that the S-H Lab may be discussing or doing. _shlab-core_ is meant only for 'core' members of the lab (graduate students, undergraduate RAs, etc).
 
@@ -70,7 +70,7 @@ Once you're all set up, look through some of the lab's repositories[^3] to see h
 
 ### 2. Data Files
 
-While GitHub is for scripts, functions, documentation, etc (and communication around those), the lab's **data should not be put on GitHub**. Instead please use the University of Denver's shared secure drive space for all data. There are two drives - the "S" drive and the "R" drive. Please send your DU email to peter.sokol-hessner@du.edu with your name@du.edu address to be added to those drives. Peter will share with you the file sharing addresses for those drives and help you connect to them.
+While GitHub is for scripts, functions, documentation, etc (and communication around those), the lab's **data should not be put on GitHub**. Instead please use the University of Denver's shared secure drive space for all data. There are two drives - the "S" drive and the "R" drive. Please email Peter with your name@du.edu address to be added to those drives. Peter will share with you the file sharing addresses for those drives and help you connect to them.
 
 These drives also have some non-GitHub based resources (PDFs of helpful textbooks, etc.).
 
@@ -82,7 +82,7 @@ The lab uses Google Calendars for all lab-wide events (e.g., lab meetings, impor
 
 ### 4. Website
 
-The lab website contains brief [profiles of all lab members](www.sokolhessnerlab.com/people). Please send the following to peter.sokol-hessner@du.edu:
+The lab website contains brief [profiles of all lab members](www.sokolhessnerlab.com/people). Please send the following to Peter:
 
 - Your **name** and **pronouns** exactly as you would like them to appear on the site.
 - A grayscale, professional **profile picture** of yourself. Higher resolution is better. 
@@ -95,15 +95,30 @@ It's your responsibility to keep this profile up to date. If anything changes, a
 
 The lab is located in Room 155 of Frontier Hall (2155 S. Race St.), on the University of Denver campus. Experiment rooms are immediately adjacent to lab. 
 - If you are a graduate student, you should have your own set of keys. Contact the department administrators to obtain keys. 
-- If you are an undergraduate student, you will use the shared keys kept in a lockbox near the lab. Ask Peter for more information. 
+- If you are an undergraduate student, you will use the shared keys kept in a lockbox near the lab. Ask Peter for the location and code for the lockbox. 
 
 ## The SHLab's Research
 
-To familiarize yourself with the kind of research we do and how we do it, you can read published, in press, and pre-print papers from the lab at https://www.sokolhessnerlab.com/publications. Follow your interests, and ask the lab members you're working with (Peter, a graduate student, etc) which in particular they'd recommend.
+To familiarize yourself with the kind of research we do and how we do it, you can read published, in press, and pre-print papers from the lab on [the website](https://www.sokolhessnerlab.com/publications). Follow your interests and ask the lab members you're working with (Peter, a graduate student, etc) which in particular they'd recommend.
+
+## Mentorship
+
+Mentorship is critical to a scientist's success! We're big believers in professional development and mentorship (e.g., see [PIPS](https://portfolio.du.edu/pips), [ASFP](https://www.asfp.io)), and value opportunities to practice mentorship and get better at it.
+
+The lab's philosophy is that mentorship is best thought of as an ongoing conversation. We try to structure portions of that conversation to ensure that lab members experience a consistent, thorough, supportive environment. That said, a good mentoring relationship is a _relationship_ - it's best when both parties are working at it. That means we encourage lab members to take responsibility over their mentoring relationships! 
+
+With this perspective in mind, we treat 'mentor contracts' as documents that facilitate conversations about expectations and goals. Here are two example contracts: for [PhD students](./files/SHLab-Expectations_Grad.pdf), for [undergraduate RAs](./files/SHLab-Expectations_RA.pdf). These are living documents that require updates and are open to revision or addition. If you want to change the text or add text for your mentor contract, have that conversation with your mentor! We encourage lab members to consider using mentor contracts in all significant mentorship relationships (not just with Peter). 
+
+All lab members should also do the following:
+- At the start of the academic year, meet with your mentor(s) to discuss the mentorship contract, your year-on-year progress, and your career goals and concerns, along with anything else you'd like to cover.
+- At the start of every term[^2], have a _goals meeting_ with your mentor(s). Discuss your goals at multiple levels, especially at the level of the term. What will you aim to accomplish in the next 10 weeks and how?
+- Set up weekly meetings for general check-ins and/or for project-specific updates, discussion, and planning. 
+
+## That's it!
+We hope this has been helpful. If you'd like to make changes, please make suggestions and/or contribute to this repository!
 
 
-
-
+## Footnotes
 
 [^1]: A workspace is a collection of people and topics in Slack. Typically, a workspace is for an organization (like a lab). Workspaces contain multiple channels. 
 [^2]: The University of Denver is on an [quarter system](https://www.du.edu/registrar/calendars-deadlines). Each quarter is 10 weeks. 
