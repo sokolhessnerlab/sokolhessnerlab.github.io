@@ -91,6 +91,14 @@ The lab website contains brief [profiles of all lab members](https://www.sokolhe
 
 It's your responsibility to keep this profile up to date. If anything changes, ask Peter to update the relevant portion of your profile. 
 
+## Lab Tools
+
+We use programming tools for a lot of our work. Install at least the following, in addition to Slack and GitHub Desktop:
+- **MATLAB**. DU has a site license. See [here](https://www.du.edu/it/services/software/software-catalog/98fd1bf31b3c74101f05433fbd4bcb8e) to download and install.
+- **R**. R is free. We suggest using RStudio (Desktop edition). See [here](https://www.rstudio.com/products/rstudio/) to download and install.
+
+You may want to consider other tools too, including Python (_free_), the Adobe Creative Suite (_DU site license_; e.g., Illustrator, Photoshop), Office 365 (_DU site license_; see [here](https://www.du.edu/it/services/software/software-catalog/c92f351698f2f500dd56f94121b032e7)), and more. 
+
 ## Lab Space
 
 The lab is located in Room 155 of Frontier Hall (2155 S. Race St.), on the University of Denver campus. Experiment rooms are immediately adjacent to lab. 
