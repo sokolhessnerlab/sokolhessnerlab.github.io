@@ -1,3 +1,9 @@
 title: Sokol-Hessner Lab Setup Page
 description: Use this page to get set up with the Sokol-Hessner Lab
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+logo: ./imgs/lab_logo.png
