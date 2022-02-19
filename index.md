@@ -5,19 +5,19 @@ The goal of this document is to **help new Sokol-Hessner Lab (SHLab) members get
 ## The short version
 
 Send an email to [Peter](mailto:peter.sokol-hessner@du.edu) with...
-- Your google email.
-- Your DU email.
+- Your google email address.
+- Your DU email address.
 - Your GitHub account info.
-- Your information for the website (see below).
+- Your information for the website.
 
-... and he will add you to...
+He will then add you to...
 - the lab Slack and email lists.
 - the lab GitHub organization.
 - the secure drives.
 - the important lab Google documents/calendars.
 - the website.
 
-For more information about how & why to do the above, keep on reading!
+Finally, you need to get your stuff set up! Read on for more info about the above items and the rest of the setup.
 
 ## Communication
 
