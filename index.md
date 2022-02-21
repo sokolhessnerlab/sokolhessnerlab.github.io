@@ -5,16 +5,16 @@ The goal of this page is to **help new members of the [Sokol-Hessner Lab](https:
 ## The short version
 
 Email [Peter](mailto:peter.sokol-hessner@du.edu) with...
-- Your google email address (_used for Google-based resources, Slack_).
-- Your DU email address (_used for DU-specific resources_).
-- Your GitHub account info.
-- Your information for the website.
+1. Your **google email** address (_used for Google-based resources, Slack_).
+2. Your **DU email** address (_used for DU-specific resources_).
+3. Your **GitHub account** info.
+4. Your **information** for the website.
 
 He will then add you to...
 - the lab Slack and email lists.
 - the lab GitHub organization.
 - the secure DU drives.
-- the important lab Google documents/calendars.
+- the important lab Google documents and calendars.
 - the website.
 
 Finally, you need to get your stuff set up! Read on for more info about the above items and the rest of the setup.
