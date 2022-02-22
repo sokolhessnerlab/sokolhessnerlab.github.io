@@ -91,6 +91,18 @@ The lab website contains brief [profiles of all lab members](https://www.sokolhe
 
 Peter will then put your profile on the website. If anything changes about your profile info, ask Peter to update the relevant portion of your profile - it's your responsibility to keep it up to date!
 
+## Human Subjects Training
+
+When working with human data, it's critical that you complete the required Institutional Review Board (IRB) training. The [DU IRB](https://www.du.edu/orsp/research-compliance/human-subject-research/about-irb) uses the [CITI Program](http://www.citiprogram.org) to administer, certify, and track researchers' training. Here's how to do it:
+1. Go to [http://www.citiprogram.org](http://www.citiprogram.org) and create an account if you don't already have one.
+2. Then, following the instructions [here](https://www.du.edu/orsp/research-compliance/human-subject-research/training-requirements), link your account to the _University of Denver_ and specify your role and the kind of research you do (Social Behavioral Educational Research, abbreviated _SBER_).
+3. Complete the following courses:
+   - `Social Behavioral Educational Research Investigators - Basic Course`
+   - `RCR for Social, Behavioral, Educational, and Humanities` (_RCR is short for Responsible Conduct of Research_)
+   - `Research Conflict of Interest`
+
+If you have questions during the process, don't hesitate to ask! After you've completed everything, you'll need to save PDFs of your 'completion reports'. Send these to Peter, and he will add you to the lab's IRB protocol. 
+
 ## Lab Tools
 
 We use programming tools for a lot of our work. Install at least the following, in addition to Slack and GitHub Desktop:
