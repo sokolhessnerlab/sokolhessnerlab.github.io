@@ -17,7 +17,7 @@ He will then add you to...
 - the important lab Google documents and calendars.
 - the website.
 
-You'll also need to complete IRB training - see below for more information. 
+You'll also need to complete **IRB training** - [see below](#human-subjects-training) for more information. 
 
 Finally, you need to get your stuff set up! Read on for more info about the above items and the rest of the setup.
 
