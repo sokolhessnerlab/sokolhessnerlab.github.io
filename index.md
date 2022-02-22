@@ -63,7 +63,7 @@ If you don't know how to use GitHub, we recommend beginning at [Start Your Lab](
 
 Along the way, you'll need to...
 - Create a [GitHub account](https://www.startyourlab.com/docs/github-accounts)
-- Join the SHLab's GitHub [organization]](https://www.startyourlab.com/docs/github-organizations) (_by sharing the GitHub username or email you used to set up your account with Peter_)
+- Join the SHLab's GitHub [organization](https://www.startyourlab.com/docs/github-organizations) (_by sharing the GitHub username or email you used to set up your account with Peter_)
 - Download and set up [GitHub Desktop](https://www.startyourlab.com/docs/github-desktop) and a [text editor](https://www.startyourlab.com/docs/text-editors). 
 
 If you have questions about how to use GitHub, _ask_! We were all new users not so long ago, and would love to help you get set up. 
