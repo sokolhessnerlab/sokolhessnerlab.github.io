@@ -95,7 +95,7 @@ Peter will then put your profile on the website. If anything changes about your 
 
 When working with human data, it's critical that you complete the required Institutional Review Board (IRB) training. The [DU IRB](https://www.du.edu/orsp/research-compliance/human-subject-research/about-irb) uses the [CITI Program](http://www.citiprogram.org) to administer, certify, and track researchers' training. Here's how to do it:
 1. Go to [http://www.citiprogram.org](http://www.citiprogram.org) and create an account if you don't already have one.
-2. Then, following the instructions [here](https://www.du.edu/orsp/research-compliance/human-subject-research/training-requirements), link your account to the _University of Denver_ and specify your role and the kind of research you do (Social Behavioral Educational Research, abbreviated _SBER_).
+2. Then, following [the DU IRB's training instructions](https://www.du.edu/orsp/research-compliance/human-subject-research/training-requirements), link your account to the _University of Denver_ and specify your role and the kind of research you do (Social Behavioral Educational Research, abbreviated _SBER_).
 3. Complete the following courses:
    - `Social Behavioral Educational Research Investigators - Basic Course`
    - `RCR for Social, Behavioral, Educational, and Humanities` (_RCR is short for Responsible Conduct of Research_)
