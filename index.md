@@ -57,18 +57,18 @@ Lab members are also generally on **[Twitter](https://www.twitter.com)**. You ar
 
 ### 1. Code
 
-The lab uses [GitHub](https://www.github.com) for all project- and lab-related scripts, functions, etc. We use GitHub to facilitate collaboration, documentation, backup, and storage. We believe this is a tool that every psychological scientist should learn to use, and **require all lab members who are working on or producing code to use GitHub**. 
+The lab uses [GitHub](https://www.github.com) for all project- and lab-related scripts, functions, etc. We use it to facilitate collaboration, documentation, backup, and storage. We believe this is a tool that every psychological scientist can benefit from learning to use, and **require all lab members who are working on or producing code to use GitHub**. The lab's page on GitHub is [here](https://github.com/sokolhessnerlab/). 
 
 If you don't know how to use GitHub, we recommend beginning at [Start Your Lab](https://www.startyourlab.com) (created by lab alumnus [Ari Dyckovsky](https://www.aridyckovsky.com)!), specifically the [Docs](https://www.startyourlab.com/docs) page. Read and complete the steps listed in the Setup and Tutorial pages. You may find the information on the [Text Editors](https://www.startyourlab.com/docs/text-editors) and [Glossary](https://www.startyourlab.com/docs/glossary) pages helpful.
 
 Along the way, you'll need to...
 - Create a [GitHub account](https://www.startyourlab.com/docs/github-accounts)
-- Join the [SHLab's GitHub](https://www.startyourlab.com/docs/github-organizations) (_by sharing the GitHub username or email you used to set up your account with Peter_)
+- Join the SHLab's GitHub [organization]](https://www.startyourlab.com/docs/github-organizations) (_by sharing the GitHub username or email you used to set up your account with Peter_)
 - Download and set up [GitHub Desktop](https://www.startyourlab.com/docs/github-desktop) and a [text editor](https://www.startyourlab.com/docs/text-editors). 
 
 If you have questions about how to use GitHub, _ask_! We were all new users not so long ago, and would love to help you get set up. 
 
-Once you're all set up, look through some of the lab's repositories[^repos] to see how we use GitHub (though if you have ideas for how to do so better, please share! We're all looking to improve).
+Once you're all set up, look through some of the [lab's repositories](https://github.com/sokolhessnerlab/)[^repos] to see how we use GitHub (though if you have ideas for how to do so better, please share! We're all looking to improve).
 
 ### 2. Data Files
 
