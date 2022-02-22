@@ -59,7 +59,7 @@ Lab members are also generally on **[Twitter](https://www.twitter.com)**. You ar
 
 The lab uses [GitHub](https://www.github.com) for all project- and lab-related scripts, functions, etc. We use it to facilitate collaboration, documentation, backup, and storage. We believe this is a tool that every psychological scientist can benefit from learning to use, and **require all lab members who are working on or producing code to use GitHub**. The lab's page on GitHub is [here](https://github.com/sokolhessnerlab/). 
 
-If you don't know how to use GitHub, we recommend beginning at [Start Your Lab](https://www.startyourlab.com) (created by lab alumnus [Ari Dyckovsky](https://www.aridyckovsky.com)!), specifically the [Docs](https://www.startyourlab.com/docs) page. Read and complete the steps listed in the Setup and Tutorial pages. You may find the information on the [Text Editors](https://www.startyourlab.com/docs/text-editors) and [Glossary](https://www.startyourlab.com/docs/glossary) pages helpful.
+If you don't know how to use GitHub, we recommend beginning at [Start Your Lab](https://www.startyourlab.com) (created by lab alumnus [Ari Dyckovsky](https://www.aridyckovsky.com)!), specifically the [Docs](https://www.startyourlab.com/docs) page. Read and complete the steps listed in the Setup and Tutorial pages. You may also find the information on the [Text Editors](https://www.startyourlab.com/docs/text-editors) and [Glossary](https://www.startyourlab.com/docs/glossary) pages helpful.
 
 Along the way, you'll need to...
 - Create a [GitHub account](https://www.startyourlab.com/docs/github-accounts)
