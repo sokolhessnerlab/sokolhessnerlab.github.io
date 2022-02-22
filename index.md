@@ -68,7 +68,7 @@ Along the way, you'll need to...
 
 If you have questions about how to use GitHub, _ask_! We were all new users not so long ago, and would love to help you get set up. 
 
-Once you're all set up, look through some of the [lab's repositories](https://github.com/sokolhessnerlab/)[^repos] to see how we use GitHub (though if you have ideas for how to do so better, please share! We're all looking to improve).
+Once you're all set up, look through some of the repositories[^repos] on the [lab's GitHub page](https://github.com/sokolhessnerlab/) to see how we use GitHub (though if you have ideas for how to do so better, please share! We're all looking to improve).
 
 ### 2. Data Files
 
