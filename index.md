@@ -17,7 +17,7 @@ He will then add you to...
 - the important lab Google documents and calendars.
 - the website.
 
-You'll also need to complete **IRB training** - [see below](#human-subjects-training) for more information. 
+You'll also need to complete **IRB training** and send documentation of your successful completion of that training to Peter - [see below](#human-subjects-training) for more information. You must do this before you can collect or interact with any participants or their data. 
 
 Finally, you need to get your stuff set up! Read on for more info about the above items and the rest of the setup.
 
@@ -129,7 +129,7 @@ All lab members should also do the following:
 
 ## Human Subjects Training
 
-Last but certainly not least, when working with human data, it's **critical that you complete the required Institutional Review Board (IRB) training**. The [DU IRB](https://www.du.edu/orsp/research-compliance/human-subject-research/about-irb) uses the [CITI Program](http://www.citiprogram.org) to administer, certify, and track researchers' training. Here's how to do it:
+Last but certainly not least, when working with people (including data from people) in a scientific context, you are **required to complete the Institutional Review Board (IRB) training**. The [DU IRB](https://www.du.edu/orsp/research-compliance/human-subject-research/about-irb) uses the [CITI Program](http://www.citiprogram.org) to administer, certify, and track researchers' training. Here's how to do it:
 1. Go to [http://www.citiprogram.org](http://www.citiprogram.org) and create an account if you don't already have one.
 2. Then, following [the DU IRB's training instructions](https://www.du.edu/orsp/research-compliance/human-subject-research/training-requirements), link your account to the _University of Denver_ and specify your role and the kind of research you do (Social Behavioral Educational Research, abbreviated _SBER_).
 3. Complete the following courses:
@@ -137,11 +137,13 @@ Last but certainly not least, when working with human data, it's **critical that
    - `RCR for Social, Behavioral, Educational, and Humanities` (_RCR is short for Responsible Conduct of Research_)
    - `Research Conflict of Interest`
 
-If you have questions during the process, don't hesitate to ask! After you've completed everything, you'll need to save PDFs of your 'completion reports'. Send these to Peter, and he will add you to the lab's IRB protocol. 
+If you have questions during the process, don't hesitate to ask! After you've completed everything, you must save PDFs of your 'completion reports'. Send these to Peter, and he will add you to the lab's IRB protocol, thereby certifying you to interact with human participants and their data. 
 
 ## That's it!
+
 We hope this was helpful. Note that this website is hosted via GitHub, making it easy for existing lab members to edit and improve upon this document! Please offer suggestions and edits to improve this page via GitHub! If you're new, don't worry about that yet - just follow the instructions above to get started in the lab. 
 
+**Welcome!** We're excited you're here, and look forward to doing science with you!
 
 ## Footnotes
 
