@@ -88,6 +88,7 @@ The lab website contains brief [profiles of all lab members](https://www.sokolhe
 
 - Your **name** and **pronouns** exactly as you would like them to appear on the site.
 - A grayscale, professional **profile picture** of yourself. Higher resolution is better. 
+- A **brief professional bio** written in the 3rd person describing your role in the lab and research interests. If you are an undergraduate, your bio should be around 50 words (plus or minus), and you should also mention your major(s) and minor(s) and potentially your career goals. If you are a graduate student, your bio should be around 100 words (plus or minus) and you should also mention any relevant prior affiliations or roles. See other peoples' bios for suggestions and ideas. 
 - (optional) Any **links** you want included (_your email address, website, or profiles on GitHub, Twitter, LinkedIn, etc._). 
 - (optional) A PDF copy of your **curriculum vitae (CV)**.
 
