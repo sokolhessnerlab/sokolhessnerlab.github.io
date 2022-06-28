@@ -9,7 +9,7 @@ Email [Peter](mailto:peter.sokol-hessner@du.edu) with...
 2. Your **DU email** address (_used for DU-specific resources_).
 3. Your **GitHub account** info ([see below](#1-code)).
 4. Your **information** for the website.
-5. Your **IRB training completion certificates** ([see below](#human-subjects-training) for more information)
+5. Your **IRB training completion certificates** ([see below](#human-subjects-training) for more information).
 
 He will then add you to...
 - the lab Slack and email lists.
