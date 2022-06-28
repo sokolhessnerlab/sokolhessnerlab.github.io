@@ -62,8 +62,8 @@ The lab uses [GitHub](https://www.github.com) for all project- and lab-related s
 If you don't know how to use GitHub, we recommend beginning at [Start Your Lab](https://www.startyourlab.com) (created by lab alumnus [Ari Dyckovsky](https://www.aridyckovsky.com)!), specifically the [Docs](https://www.startyourlab.com/docs) page. Read and complete the steps listed in the Setup and Tutorial pages. You may also find the information on the [Text Editors](https://www.startyourlab.com/docs/text-editors) and [Glossary](https://www.startyourlab.com/docs/glossary) pages helpful.
 
 Along the way, you'll need to...
-- Create a [GitHub account](https://www.startyourlab.com/docs/github-accounts)
-- Join the SHLab's GitHub [organization](https://www.startyourlab.com/docs/github-organizations) (_by sharing the GitHub username or email you used to set up your account with Peter_)
+- Create a [GitHub account](https://www.startyourlab.com/docs/github-accounts).
+- Join the SHLab's GitHub [organization](https://www.startyourlab.com/docs/github-organizations) (_by sharing the GitHub username or email you used to set up your account with Peter_).
 - Download and set up [GitHub Desktop](https://www.startyourlab.com/docs/github-desktop) and a [text editor](https://www.startyourlab.com/docs/text-editors). 
 
 If you have questions about how to use GitHub, _ask_! We were all new users not so long ago, and would love to help you get set up. 
@@ -87,7 +87,7 @@ The lab uses Google Calendars for all lab-wide events (e.g., lab meetings, impor
 The lab website contains brief [profiles of all lab members](https://www.sokolhessnerlab.com/people). Please send the following to Peter:
 
 - Your **name** and **pronouns** exactly as you would like them to appear on the site.
-- A grayscale, professional **profile picture** of yourself. Higher resolution is better. 
+- A grayscale **profile picture** of yourself. Higher resolution is better. 
 - A **brief professional bio** written in the 3rd person describing your role in the lab and research interests. If you are an undergraduate, your bio should be around 50 words (plus or minus), and you should also mention your major(s) and minor(s) and potentially your career goals. If you are a graduate student, your bio should be around 100 words (plus or minus) and you should also mention any relevant prior affiliations or roles. See other peoples' bios for suggestions and ideas. 
 - (optional) Any **links** you want included (_your email address, website, or profiles on GitHub, Twitter, LinkedIn, etc._). 
 - (optional) A PDF copy of your **curriculum vitae (CV)**.
