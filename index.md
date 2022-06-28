@@ -112,7 +112,7 @@ The lab is located in Room 155 of Frontier Hall (2155 S. Race St.), on the Unive
 
 To familiarize yourself with the kind of research we do and how we do it, you can read published, in press, and pre-print papers from the lab on [the website](https://www.sokolhessnerlab.com/publications). Follow your interests and ask the lab members you're working with (Peter, a graduate student, etc) which they recommend for you.
 
-Many of our datasets are also available on the Open Science Framework (OSF; [Peter's OSF profile](osf.io/vwy2z)).  
+Many of our datasets are also available on the Open Science Framework (OSF; [Peter's OSF profile](https://osf.io/vwy2z)).  
 
 ## Mentorship
 
