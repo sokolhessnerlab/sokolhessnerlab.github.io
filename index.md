@@ -7,7 +7,7 @@ The goal of this page is to **help new members of the [Sokol-Hessner Lab](https:
 Email [Peter](mailto:peter.sokol-hessner@du.edu) with...
 1. Your **google email** address (_used for Google-based resources, Slack_).
 2. Your **DU email** address (_used for DU-specific resources_).
-3. Your **GitHub account** info ([see below](#1code)).
+3. Your **GitHub account** info ([see below](#1-code)).
 4. Your **information** for the website.
 5. Your **IRB training completion certificates** ([see below](#human-subjects-training) for more information)
 
