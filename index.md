@@ -17,6 +17,7 @@ He will then add you to...
 - the secure DU drives.
 - the important lab Google documents and calendars.
 - the website.
+- the lab IRB protocol.
 
 Finally, you need to get your stuff set up! Read on for more info about the above items and the rest of the setup.
 
@@ -137,8 +138,9 @@ Last but certainly not least, when working with people (including data from peop
    - `RCR for Social, Behavioral, Educational, and Humanities` (_RCR is short for Responsible Conduct of Research_).
    - `Research Conflict of Interest`.
    - ... and any others [required by the DU IRB](https://www.du.edu/orsp/research-compliance/human-subject-research/training-requirements).
+4. Save PDFs of your 'completion reports', and send to Peter.
 
-If you have questions during the process, don't hesitate to ask! After you've completed everything, you must save PDFs of your 'completion reports'. Send these to Peter, and he will add you to the lab's IRB protocol, thereby certifying you to interact with human participants and their data.
+If you have questions during the process, don't hesitate to ask! After you've completed everything, Peter will add you to the lab's IRB protocol, thereby certifying you to interact with human participants and their data.
 
 ## That's it!
 
