@@ -140,6 +140,8 @@ Last but certainly not least, when working with people (including data from peop
    - ... and any others [required by the DU IRB](https://www.du.edu/orsp/research-compliance/human-subject-research/training-requirements).
 4. Save PDFs of your 'completion reports', and send to Peter.
 
+Completing your CITI certification shouldn't take more than two (2) hours, and once completed, you won't have to revisit it for a few years - just get it done! 
+
 If you have questions during the process, don't hesitate to ask! After you've completed everything, Peter will add you to the lab's IRB protocol, thereby certifying you to interact with human participants and their data.
 
 ## That's it!
