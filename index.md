@@ -51,7 +51,7 @@ These lists are used for forwarding email announcements, and occasionally for la
 
 We have **weekly lab meetings** during the academic quarter[^quarters]. All active lab members are expected to come to lab meetings and occasionally present/lead lab meeting. Lab meetings are typically scheduled immediately prior to each quarter (taking into account members' schedules). The goal is that lab meetings are helpful! Think about things you'd like feedback on, deadlines that'd be useful to you (to help you accomplish something on time, whether that be in your research, classes, or something else), and can be formal or informal presentations, guided discussions, or 'journal clubs' in which we present and discuss recent exciting research on emotion and decision-making.
 
-Lab members are also generally on **[Twitter](https://www.twitter.com)**. You are encouraged to join twitter and follow other lab members to facilitate the sharing of interesting or relevant info about science, research, job opportunities, resources, or anything else. Peter's Twitter is [@p1sh](https://www.twitter.com/p1sh), and the lab's is [@ItsTheSHLab](https://twitter.com/ItsTheShlab). Joining Twitter isn't required, just recommended.
+Lab members are also generally on **[Bluesky](www.bsky.app)** and **[X](https://www.twitter.com)**. You are encouraged to join Bluesky and follow other lab members to facilitate the sharing of interesting or relevant info about science, research, job opportunities, resources, or anything else. Twitter is your call (the place is not always the healthiest). Peter's Bluesky is [@p1sh](https://bsky.app/profile/p1sh.bsky.social) and the lab's is [@shlab](https://bsky.app/profile/shlab.bsky.social). Peter's Twitter is [@p1sh](https://www.twitter.com/p1sh), and the lab's is [@ItsTheSHLab](https://twitter.com/ItsTheShlab). Joining Bluesky/X isn't required, just recommended.
 
 ## Files and Documents
 
@@ -64,7 +64,7 @@ If you don't know how to use GitHub, we recommend beginning at [Start Your Lab](
 Along the way, you'll need to...
 - Create a [GitHub account](https://www.startyourlab.com/docs/github-accounts).
 - Join the SHLab's GitHub [organization](https://www.startyourlab.com/docs/github-organizations) (_by sharing the GitHub username or email you used to set up your account with Peter_).
-- Download and set up [GitHub Desktop](https://www.startyourlab.com/docs/github-desktop) and a [text editor](https://www.startyourlab.com/docs/text-editors).
+- Download and set up [GitHub Desktop](https://www.startyourlab.com/docs/github-desktop) and a [text editor](https://www.startyourlab.com/docs/text-editors) (we recommend [VS Code](https://code.visualstudio.com/download)).
 
 If you have questions about how to use GitHub, _ask_! We were all new users not so long ago, and would love to help you get set up.
 
@@ -97,11 +97,14 @@ Peter will then put your profile on the website. If anything changes about your 
 ## Lab Tools
 
 We use programming tools for a lot of our work. Install at least the following, in addition to Slack and GitHub Desktop:
-- **MATLAB**. DU has a site license. See [here](https://www.du.edu/it/services/software/software-catalog/98fd1bf31b3c74101f05433fbd4bcb8e) to download and install.
-- **PsychToolBox**. PTB is a free add-on to MATLAB, used to control the screen and interact with  input/output devices (e.g., keyboard, mouse, eye tracker). See [here](http://psychtoolbox.org/) to download & install once MATLAB is all set up.
 - **R**. R is free. We suggest using RStudio (Desktop edition). See [here](https://www.rstudio.com/products/rstudio/) to download and install.
+- **Python**. _...coming soon..._
 
-You may want to consider other tools too, including Python (_free_), the Adobe Creative Suite (_DU site license_; e.g., Illustrator, Photoshop; see [here](https://www.du.edu/it/services/software/software-catalog/9ef158601bd930101f05433fbd4bcb74)), Office 365 (_DU site license_; see [here](https://www.du.edu/it/services/software/software-catalog/c92f351698f2f500dd56f94121b032e7)), Zotero (_free & paid versions_; used for PDF management, annotation, and citation management in Word and/or Google Docs; see [here](https://www.zotero.org/)) and more.
+We _used_ to use the following tools, but almost never do at this point:
+- **MATLAB** (_optional_). DU has a site license. See [here](https://www.du.edu/it/services/software/software-catalog/98fd1bf31b3c74101f05433fbd4bcb8e) to download and install.
+- **PsychToolBox** (_optional_). PTB is a free add-on to MATLAB, used to control the screen and interact with  input/output devices (e.g., keyboard, mouse, eye tracker). See [here](http://psychtoolbox.org/) to download & install once MATLAB is all set up.
+
+You may want to consider other tools too, the Adobe Creative Suite (_DU site license_; e.g., Illustrator, Photoshop; see [here](https://www.du.edu/it/services/software/software-catalog/9ef158601bd930101f05433fbd4bcb74)), Office 365 (_DU site license_; see [here](https://www.du.edu/it/services/software/software-catalog/c92f351698f2f500dd56f94121b032e7)), Zotero (_free & paid versions_; used for PDF management, annotation, and citation management in Word and/or Google Docs; see [here](https://www.zotero.org/)) and more.
 
 ## Lab Space
 
@@ -117,7 +120,7 @@ Many of our datasets are also available on the Open Science Framework (OSF; [Pet
 
 ## Mentorship
 
-Mentorship is critical to a scientist's success! We're big believers in professional development and mentorship (e.g., see [PIPS](https://portfolio.du.edu/pips), [ASFP](https://www.asfp.io)), and value opportunities to practice mentorship and get better at it.
+Mentorship is critical to a scientist's success! We're big believers in professional development and mentorship (e.g., see [PIPS](https://du.digication.com/pips), [ASFP](https://www.asfp.io)), and value opportunities to practice mentorship and get better at it.
 
 The lab's philosophy is that mentorship is best thought of as an ongoing conversation. We try to structure portions of that conversation to ensure that lab members experience a consistent, thorough, supportive environment. That said, a good mentoring relationship is a _relationship_ - it's best when both parties are working at it. That means we encourage lab members to take responsibility over their mentoring relationships!
 
