@@ -15,10 +15,10 @@ He will then add you to the...
 - lab Slack.
 - lab email lists.
 - lab GitHub organization.
-- the secure DU drive.
-- the important lab Google documents and calendars.
-- the website.
-- the lab IRB protocol.
+- secure DU drive.
+- important lab Google documents and calendars.
+- website.
+- lab IRB protocol.
 
 Finally, you need to get your stuff set up! Read on for more info about the above items and the rest of the setup.
 
