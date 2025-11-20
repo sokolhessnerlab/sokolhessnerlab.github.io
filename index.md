@@ -11,10 +11,11 @@ Email [Peter](mailto:peter.sokol-hessner@du.edu) with...
 4. Your **information** for your [website profile](#4-website).
 5. Your **IRB training completion certificates** ([see below](#human-subjects-training) for more information).
 
-He will then add you to...
-- the lab Slack and email lists.
-- the lab GitHub organization.
-- the secure DU drives.
+He will then add you to the...
+- lab Slack.
+- lab email lists.
+- lab GitHub organization.
+- the secure DU drive.
 - the important lab Google documents and calendars.
 - the website.
 - the lab IRB protocol.
@@ -27,31 +28,32 @@ The lab uses two main ways to communicate, plus a few others.
 
 ### 1. Slack
 
-There are two [Slack](https://www.slack.com) workspaces[^slack] to join. Peter will add you to both of them.
+The lab uses a [Slack](https://www.slack.com) workspace[^slack]. Peter will add you to it. 
 
-1. The **SHLab Slack** is for most daily communication. The workspace has channels organized around general communication, interesting "good reads" that lab members find, social interactions, research projects (each project has its own channel), direct messages between specific lab members, and more.
-2. The **DU PSYC Coders Slack** is for people in or affiliated with the DU Psychology department who use programming to conduct their research. The workspace has channels for e.g., `R`, `python`, `MATLAB`, and more.
+The **SHLab Slack** is for almost all daily communication. The workspace has channels organized around general communication, interesting "good reads" that lab members find, social stuff, research projects (each project has its own channel), direct messages between specific lab members, and more.
 
 #### Slack Settings
 
 Slack works best when everyone's on it, and people are relatively responsive. To this end...
 
-1. Join the lab Slack using a username that is based on your real name (i.e., your full name, your initials, or some combination thereof).
+1. Join the lab Slack using a username that is based on your real name (i.e., your full name, your initials, or your first name).
 2. If you are an active member of the lab, **please install the Slack application** and then **enable notifications** in Slack on your computer _and_ any digital devices (i.e., phone) that you regularly use.
-3. Once installed, please **configure your account** with a representative photo of yourself, your full name, your pronouns, a brief blurb about yourself & your lab role, and any other information in the Slack profile that'd be helpful.
+3. Once installed, please **configure your account** with a representative photo of yourself, your full name, your pronouns, a brief blurb about yourself & your lab role, and any other information in the Slack profile that'd be helpful. Check out current lab members' profiles on Slack if you're unsure what it should look like.
 4. Join Slack channels related to your work and role in the lab, and participate!
 
 ### 2. Email
 
-We have two lab email lists: shlab-general@du.edu and shlab-core@du.edu. To be added to these lists, please send your name@du.edu email to Peter.
+We have two lab email lists: shlab-general@du.edu and shlab-core@du.edu. Peter will use your name@du.edu email address to add you to these.
 
-These lists are used for forwarding email announcements, and occasionally for lab events. _shlab-general_ is meant for anyone & everyone within the department of psychology who is interested in things that the S-H Lab may be discussing or doing. _shlab-core_ is meant only for 'core' members of the lab (graduate students, undergraduate RAs, etc).
+These lists are used for forwarding email announcements, and occasionally for lab events. _shlab-general_ is meant for anyone & everyone within the department of psychology (and lab alumni!) who is interested in things that the S-H Lab may be discussing or doing. _shlab-core_ is meant only for 'core' members of the lab (graduate students, undergraduate RAs, etc). These are used once in a while. 
 
 ### 3. Other communication
 
 We have **weekly lab meetings** during the academic quarter[^quarters]. All active lab members are expected to come to lab meetings and occasionally present/lead lab meeting. Lab meetings are typically scheduled immediately prior to each quarter (taking into account members' schedules). The goal is that lab meetings are helpful! Think about things you'd like feedback on, deadlines that'd be useful to you (to help you accomplish something on time, whether that be in your research, classes, or something else), and can be formal or informal presentations, guided discussions, or 'journal clubs' in which we present and discuss recent exciting research on emotion and decision-making.
 
-Lab members are also generally on **[Bluesky](www.bsky.app)** and **[X](https://www.twitter.com)**. You are encouraged to join Bluesky and follow other lab members to facilitate the sharing of interesting or relevant info about science, research, job opportunities, resources, or anything else. Twitter is your call (the place is not always the healthiest). Peter's Bluesky is [@p1sh](https://bsky.app/profile/p1sh.bsky.social) and the lab's is [@shlab](https://bsky.app/profile/shlab.bsky.social). Peter's Twitter is [@p1sh](https://www.twitter.com/p1sh), and the lab's is [@ItsTheSHLab](https://twitter.com/ItsTheShlab). Joining Bluesky/X isn't required, just recommended.
+Lab members may also be on **[Bluesky](www.bsky.app)** and/or **[X](https://www.twitter.com)**. You are encouraged to join Bluesky and follow other lab members to facilitate the sharing of interesting or relevant info about science, research, job opportunities, resources, or anything else. Peter's Bluesky is [@p1sh](https://bsky.app/profile/p1sh.bsky.social) and the lab's is [@shlab](https://bsky.app/profile/shlab.bsky.social). If you are on or join X/Twitter, Peter's Twitter is [@p1sh](https://www.twitter.com/p1sh), and the lab's is [@ItsTheSHLab](https://twitter.com/ItsTheShlab). Joining Bluesky/X isn't required, just recommended.
+
+We also suggest you create a **[LinkedIn](www.linkedin.com)** profile if you haven't already! This can be a critical platform when looking for a job, so even if your profile is pretty basic, you're advised to make one and connect with the current lab members. 
 
 ## Files and Documents
 
@@ -59,7 +61,7 @@ Lab members are also generally on **[Bluesky](www.bsky.app)** and **[X](https://
 
 The lab uses [GitHub](https://www.github.com) for all project- and lab-related scripts, functions, etc. We use it to facilitate collaboration, documentation, backup, and storage. We believe this is a tool that every psychological scientist can benefit from learning to use, and **require all lab members who are working on or producing code to use GitHub**. The lab's page on GitHub is [here](https://github.com/sokolhessnerlab/).
 
-If you don't know how to use GitHub, we recommend beginning at [Start Your Lab](https://www.startyourlab.com) (created by lab alumnus [Ari Dyckovsky](https://www.aridyckovsky.com)!), specifically the [Docs](https://www.startyourlab.com/docs) page. Read and complete the steps listed in the Setup and Tutorial pages. You may also find the information on the [Text Editors](https://www.startyourlab.com/docs/text-editors) and [Glossary](https://www.startyourlab.com/docs/glossary) pages helpful.
+If you don't know how to use GitHub, you can start at [Start Your Lab](https://www.startyourlab.com) (created by lab alumnus [Ari Dyckovsky](https://www.aridyckovsky.com)!), specifically the [Docs](https://www.startyourlab.com/docs) page. Read and complete the steps listed in the Setup and Tutorial pages. You may also find the information on the [Text Editors](https://www.startyourlab.com/docs/text-editors) and [Glossary](https://www.startyourlab.com/docs/glossary) pages helpful.
 
 Along the way, you'll need to...
 - Create a [GitHub account](https://www.startyourlab.com/docs/github-accounts).
@@ -72,7 +74,7 @@ Once you're all set up, look through some of the repositories[^repos] on the [la
 
 ### 2. Data Files
 
-While GitHub is for scripts, functions, documentation, etc (and communication around those), the lab's **data should not be put on GitHub**. Instead please use the University of Denver's shared secure drive space for all data. There are two drives - the "S" drive and the "R" drive. Please email Peter with your name@du.edu address to be added to those drives. Peter will send you the file sharing addresses for those drives and help you connect to them.
+While GitHub is for scripts, functions, documentation, etc (and communication around those), the lab's **data should not be put on GitHub**. Instead please use the University of Denver's shared secure drive space for all data. There are two drives - the "S" drive and the "R" drive. Please email Peter with your name@du.edu address to be added to those drives. Peter will communicate with department admins to get you added to these drives. If you're unsure how to connect to them, ask any current lab member (including Peter). 
 
 These drives also have some non-GitHub based resources (PDFs of helpful textbooks, etc.).
 
@@ -100,11 +102,11 @@ We use programming tools for a lot of our work. Install at least the following, 
 - **R**. R is free. We suggest using RStudio (Desktop edition). See [here](https://www.rstudio.com/products/rstudio/) to download and install.
 - **Python**. _...coming soon..._
 
-We _used_ to use the following tools, but almost never do at this point:
+We _used_ to use the following tools, but almost never do at this point (but if you want to, be our guest!):
 - **MATLAB** (_optional_). DU has a site license. See [here](https://www.du.edu/it/services/software/software-catalog/98fd1bf31b3c74101f05433fbd4bcb8e) to download and install.
 - **PsychToolBox** (_optional_). PTB is a free add-on to MATLAB, used to control the screen and interact with  input/output devices (e.g., keyboard, mouse, eye tracker). See [here](http://psychtoolbox.org/) to download & install once MATLAB is all set up.
 
-You may want to consider other tools too, the Adobe Creative Suite (_DU site license_; e.g., Illustrator, Photoshop; see [here](https://www.du.edu/it/services/software/software-catalog/9ef158601bd930101f05433fbd4bcb74)), Office 365 (_DU site license_; see [here](https://www.du.edu/it/services/software/software-catalog/c92f351698f2f500dd56f94121b032e7)), Zotero (_free & paid versions_; used for PDF management, annotation, and citation management in Word and/or Google Docs; see [here](https://www.zotero.org/)) and more.
+You may want to consider other tools too, the Adobe Creative Suite (_DU site license_; e.g., Illustrator, Photoshop; see [here](https://www.du.edu/it/services/software/software-catalog/9ef158601bd930101f05433fbd4bcb74)), Office 365 (_DU site license_; see [here](https://www.du.edu/it/services/software/software-catalog/c92f351698f2f500dd56f94121b032e7)), Zotero (_free & paid versions_; used for reading scientific articles, including PDF management, annotation, and citation/bibliography creation in Word and/or Google Docs; see [here](https://www.zotero.org/)) and more.
 
 ## Lab Space
 
